@@ -1,4 +1,4 @@
-<header> <h1> Welcome to my GitHub 😀 </h1></header>
+<header> <h1> Welcome to my GitHub </h1></header>
 <body>
 <p>   
    Passionate about machine learning 🧠 <br/>
